@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nike">Nike Air Max 270 Rea...</string>
+    <string name="zoom">Nike Air Zoom Pegasus 36 Miami</string>
+    <string name="number">$299,43</string>
+    <string name="select">Select Size</string>
+</resources>
